@@ -1,0 +1,34 @@
+.navbar{
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+}
+
+.y{
+    width: 70px;
+    border-radius: 30px;
+    margin-right: 10px;
+}
+
+.title{
+    margin-left: 10px;
+}
+
+.Option{
+    padding-top: 10px;
+    margin-right: 20px;
+    color: white;
+}
+
+.optBtn{
+    border-right: none;
+    border-top: none;
+    border-bottom: none;
+
+    border-color: white ;
+
+
+    background: none;
+}
+

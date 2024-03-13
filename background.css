@@ -1,0 +1,40 @@
+.col1{
+    padding: 0;
+}
+
+.Bar{
+    height: 50px;
+    width: 100%;
+}
+
+.col2{
+    padding: 0;
+}
+
+.srchBtn{
+    border: none;
+    width: 100%;
+    height: 50px;
+}
+
+.background{
+
+    display: block;
+    
+    height: 700px;
+    width: 100%;
+
+    background-image: url(imgs/mm.webp);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+
+    margin-top: 90px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+

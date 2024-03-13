@@ -1,0 +1,32 @@
+#two{
+    margin-top: 20px;
+}
+
+.box{
+    background: red;
+    margin-right: 10px;
+}
+
+.col{
+    border: 10px;
+}
+
+img{
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 20px;
+}
+
+.innerflex{
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+}
+
+.last{
+    margin-top: 34px;
+}
+
+body{
+    font-family: sans-serif;
+}
